@@ -1,1 +1,2 @@
 # bitrixMobile
+Bitrix mobile detect
